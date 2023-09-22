@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Mrunalini",
+      "email": "m@gmail.com",
+      "mobile": 9673279771,
+      "service": "basic_service"
+    }
+  ],
+  "comments": [],
+  "signup": {
+    "name": "",
+    "email": "",
+    "mobile": "",
+    "password": ""
+  }
+}
